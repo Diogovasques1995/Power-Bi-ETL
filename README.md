@@ -79,3 +79,7 @@ Modelagem Relacional de Alta Performance: Compreensão prática de que o tratame
 Data Storytelling e UI/UX: Transição de gráficos genéricos de sistema para uma interface com padrão de portal corporativo de transparência.
 
 Regras de Compliance com SQL: Criação de arquiteturas lógicas para transformar dados puramente transacionais em insights acionáveis de auditoria.
+
+## 📈 Gráfico do Powerbi (ANAC)
+
+![Gráfico do PowerBI](Powerbi.png)
